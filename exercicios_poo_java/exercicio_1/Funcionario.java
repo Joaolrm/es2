@@ -1,4 +1,4 @@
-package exercicios_poo_java;
+package exercicios_poo_java.exercicio_1;
 
 class Funcionario extends Object{
     private String nome;
