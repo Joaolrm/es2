@@ -1,10 +1,11 @@
 package exercicios_poo_java.exercicio_1;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Empresa {
     
-    private ArrayList<Funcionario> listaFuncionarios = new ArrayList<Funcionario> ();
+    private List<Funcionario> listaFuncionarios = new ArrayList<Funcionario> ();
 
     public void contratarFuncionario(Funcionario funcionario) {
         
